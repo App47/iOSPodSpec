@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'EmbeddedAgent'
-    s.version           = '3.0.0'
+    s.version           = '3.0.1'
     s.summary           = 'The embedded agent is a bridge between your mobile application and the App47 service.'
     s.homepage          = 'http://www.app47.com/'
 
